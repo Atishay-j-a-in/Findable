@@ -9,7 +9,7 @@ that will help the user to directly search hence increasing efficiency .
 
 - fork this repository
 ### inside your terminal
-- use git clone 
+- git clone https://github.com/Atishay-j-a-in/Findable.git
 ### TO start Frontend and Backend servers
 - npm install
 - npm run dev
